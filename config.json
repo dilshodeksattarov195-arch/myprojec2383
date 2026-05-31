@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsfarse",
+        "uuid": 10254049,
+        "checksum": "0rfbk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
